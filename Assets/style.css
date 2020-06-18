@@ -28,8 +28,8 @@ footer {
     width: 100%;
 }
 
-@media all and max-width:(768px) {
+@media all and (max-width: (768px)) {
     #container-margins {
-        margin: initial;
+        margin: auto;
     }
 }
