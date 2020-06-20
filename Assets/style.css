@@ -36,6 +36,17 @@ footer {
     width: 100%;
 }
 
+#smaller {
+    font-size: small;
+    text-overflow: ellipsis;
+    overflow: visible;
+    white-space: nowrap;
+}
+
+.icon-spacing {
+    padding-right: 10px;
+}
+
 @media all and (max-width: (768px)) {
     #container-margins {
         margin: auto;
