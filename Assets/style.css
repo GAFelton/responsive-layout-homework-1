@@ -18,7 +18,7 @@ nav {
     background-color: #272c30;
 }
 
-#navbar-george {
+.title-george {
 background-color: darkorange;
 font-weight: bold;
 text-align: center;
@@ -27,6 +27,9 @@ margin-top: 0px;
 margin-bottom: 0px;
 padding: 5px;
 border-radius: 5px;
+}
+.more-margin-bottom {
+margin-bottom: 20px;
 }
 
 footer {
