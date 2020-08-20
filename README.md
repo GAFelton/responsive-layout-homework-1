@@ -3,13 +3,13 @@
 My goal in this assignment was to create a basic responsive portfolio website using bootstrap elements.
 
 #### Screenshot of Contact.html on a x-small viewport.
-![Screenshot of Contact.html on a x-small viewport.](./assets/images/responsive-portfolio-screenshot-xs.jpg)
+![Screenshot of Contact.html on a x-small viewport.](./Assets/Images/responsive-portfolio-screenshot-xs.jpg)
 
 #### Screenshot of Contact.html on a medium viewport.
-![Screenshot of Contact.html on a medium viewport.](./assets/images/responsive-portfolio-screenshot-md.jpg)
+![Screenshot of Contact.html on a medium viewport.](./Assets/Images/responsive-portfolio-screenshot-md.jpg)
 
 #### Screenshot of Contact.html on a large viewport.
-![Screenshot of Contact.html on a large viewport.](./assets/images/responsive-portfolio-screenshot-lg.jpg)
+![Screenshot of Contact.html on a large viewport.](./Assets/Images/responsive-portfolio-screenshot-lg.jpg)
 
 [Link to Deployed Project](https://gafelton.github.io/responsive-layout-homework-1/)
 
